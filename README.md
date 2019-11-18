@@ -1,27 +1,24 @@
-# Project Foundations
 
-This is a project foundation for C++
+How To Use this Code, Based on C++
 
-# Initial Setup
+
+# Setup
 
 ./tools/autotools.sh
 
-# configuring
+# config
 
 ./configure
 
-# building
+# compile code
 
 make
 
-# testing
+# test the program
 
 ./test/RunTest
 
-# install
+# compile all code install
 
 make install
 
-# uninstal
-
-make uninstall
